@@ -1,4 +1,3 @@
-README.md 完整版
 🐟 Fish-Scripts | CachyOS 自用终端脚本库
 个人日常开发工具脚本合集，专为 CachyOS / ArchLinux + Alacritty + Fish Shell 优化。
 所有脚本 零配置、开箱即用、交互式选择、高度自动化。
